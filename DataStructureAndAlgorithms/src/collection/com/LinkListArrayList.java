@@ -22,4 +22,4 @@ public class LinkListArrayList {
 		  System.out.println("linkedlist: "+al2);  
 		  Queue<String> queue=new LinkedList<String>();
 		 }   
-}
+}]
